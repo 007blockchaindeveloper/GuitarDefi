@@ -1,5 +1,5 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const MNEMONIC = 'any crucial stove syrup lyrics parade run melody move spirit lamp addict';
+const MNEMONIC = '';
 
 module.exports = {
   // Uncommenting the defaults below
